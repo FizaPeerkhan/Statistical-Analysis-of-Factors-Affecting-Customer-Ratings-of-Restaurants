@@ -7,7 +7,7 @@ A data analysis project using real-world Zomato restaurant data to explore **fac
 
 ## 📁 Files in This Repo
 
-- `Zomato_Ratings_Analysis.ipynb` → Main notebook with all analysis, visuals, and statistical tests  
+- `statistical-analysis-for-zomato-customer-rating.ipynb` → Main notebook with all analysis, visuals, and statistical tests  
   
 ---
 
